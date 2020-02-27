@@ -1,4 +1,4 @@
 # DjangoProject
 
 
-* [guptahimanshu.in]
+* guptahimanshu.in
