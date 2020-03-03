@@ -1,5 +1,5 @@
 # How to start a  Django Project
-___
+
 
 ### Requirements for Project
 
