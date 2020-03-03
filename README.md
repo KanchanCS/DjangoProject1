@@ -11,7 +11,7 @@ ___
 [Download Postgres SQL](https://www.postgresql.org/)
 
 
-## ..* Step -1  (Create a Project Directory)
+##  Step -1  (Create a Project Directory)
 
 Open Pycharm IDE  and Click a Create New Project 
 
